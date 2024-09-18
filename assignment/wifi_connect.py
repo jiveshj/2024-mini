@@ -7,8 +7,10 @@ import ujson as json
 
 wlan = network.WLAN(network.STA_IF)
 wlan.active(True)
-ssid = "" #add your SSID
-password = " " # add your password
+#add your SSID
+ssid = "" 
+# add your password
+password = " " 
 wlan.connect(ssid,password)
 
 print('connecting...')

@@ -5,3 +5,7 @@ We first changed the N variable to be 10, indicating that the program should fla
 <br>
 <br>
 After the user plays the game, the data is POST to our Firebase using our database_api_url and the requestspost() function.
+<br>
+<br>
+Video to explanation of game script changes: https://drive.google.com/file/d/11ckuMMk4Gg_ktbyP83gU_T7NIFiLv3r7/view?usp=drive_link
+Video to exercise_game execution: https://drive.google.com/file/d/1n6CW81tCQc919181dyqBDZaYS5t4At7A/view?usp=drive_link

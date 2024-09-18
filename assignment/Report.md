@@ -7,14 +7,16 @@ min brightness value: 51100
 The resistance of the photocell decreases as more light shines on it. Therefore, in the voltage divider circuit we see that the value of the ADC2 decreases with increasing brightness (the resistance of the photocell decreases relative to the fixed 10K ohm resistor). Similarly, when the photocell is put in a dark room we see that its resistance increases, therefore the voltage across it increases and consequently the value of the ADC2 also increases. 
 For finding the min brightness we put the photocell setup in a dark room and ran the code. For the max brightness, we shone two flashlights at the photocell to get the best possible max brightness value. 
 <br>
+<br>
 Video to exercise_light: https://drive.google.com/file/d/1cO4HTZYUw0Nua3f2qNdHzcKLHOrBz5Wv/view?usp=drive_link
 <br>
-
+<br>
 **Exercise_sound**
 <br>
 We have modified our code to play the super Mario cart theme tune.  
 <br>
 Video to exercise_sound: https://drive.google.com/file/d/1Royvl2udqdRVfUmGkReyz1aEUS5YwzQo/view?usp=drive_link
+<br>
 <br>
 **Exercise_Game**
 <br>
